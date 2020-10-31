@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1,ZEE TV
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/d7ad379069fee4b.m3u8
